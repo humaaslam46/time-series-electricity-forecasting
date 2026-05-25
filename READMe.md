@@ -74,7 +74,6 @@ This project focuses on forecasting household electricity consumption using time
 | ARIMA  | XX  | XX   |
 | LSTM   | XX  | XX   |
 
-> Replace XX with your actual values
 
 ---
 
